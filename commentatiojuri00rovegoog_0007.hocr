@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentatiojuri00rovegoog_0007.png"; bbox 0 0 2684 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 912 1400 1270 1924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 912 1400 1270 1924">
+     <span class='ocr_line' id='line_1_1' title="bbox 913 1400 1262 1468; baseline 0.003 -12"><span class='ocrx_word' id='word_1_1' title='bbox 913 1400 1221 1458; x_wconf 72' lang='lat' dir='ltr'>ROVERS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1240 1439 1262 1468; x_wconf 87' lang='lat'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 988 1499 1238 1546; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 988 1499 1238 1546; x_wconf 76' lang='lat' dir='ltr'>omment-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1054 1582 1140 1631; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1054 1582 1120 1631; x_wconf 87' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1138 1584 1140 1586; x_wconf 77' lang='grc'>’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 948 1672 1239 1730; baseline -0.017 0"><span class='ocrx_word' id='word_1_6' title='bbox 948 1675 1053 1730; x_wconf 81' lang='lat' dir='ltr'><strong>M.-</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1064 1672 1239 1726; x_wconf 73' lang='lat' dir='ltr'><strong>Tullii</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 917 1759 1270 1819; baseline -0.003 -6"><span class='ocrx_word' id='word_1_8' title='bbox 917 1759 1088 1814; x_wconf 86' lang='lat' dir='ltr'>Cicer.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1109 1760 1270 1819; x_wconf 78' lang='lat' dir='ltr'><strong>Orat.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 912 1849 1266 1924; baseline -0.014 -19"><span class='ocrx_word' id='word_1_10' title='bbox 912 1869 1016 1924; x_wconf 77' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1063 1849 1266 1902; x_wconf 80' lang='lat' dir='ltr'>Roscio</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 943 1931 1237 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 943 1931 1237 1995">
+     <span class='ocr_line' id='line_1_7' title="bbox 943 1931 1237 1995; baseline -0.003 -4"><span class='ocrx_word' id='word_1_12' title='bbox 943 1931 1237 1995; x_wconf 64' lang='lat' dir='ltr'><strong>Comoedo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1637 0 2684 5096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1637 0 2684 5096">
+     <span class='ocr_line' id='line_1_8' title="bbox 1637 0 2684 5096; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 1637 0 2684 5096; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
